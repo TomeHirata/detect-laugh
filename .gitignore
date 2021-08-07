@@ -1,2 +1,6 @@
 opencv
 .ipynb_checkpoints/
+*.mov
+*.mp4
+output
+.DS_Store
