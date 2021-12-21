@@ -1,4 +1,6 @@
 ## 人の笑顔度を定量化することのプロトタイピングコードである
+詳細は[ノートブック](https://github.com/TomeHirata/detect-laugh/blob/master/laugh.ipynb)をみてください
+
 
 ### application
 - 漫才の機械評価
